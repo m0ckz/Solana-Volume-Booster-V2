@@ -10,3 +10,4 @@ This tool is designed to increase trading volume through automated buy and sell 
 
 ## Contact Information
 For more details or to get started, reach out via Telegram at `@m0ckz`.
+![image](https://github.com/m0ckz/Solana-Volume-Booster-Script/assets/168364573/7d53bae9-94d7-4565-b83d-d093c57440f2)
