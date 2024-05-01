@@ -1,4 +1,4 @@
-# Solana-Volume-Booster-Script
+# Solana-Volume-Booster
 
 This tool is designed to increase trading volume through automated buy and sell actions.
 
